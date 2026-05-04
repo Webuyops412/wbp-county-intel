@@ -1,0 +1,104 @@
+name: WBP County Scraper
+
+on:
+  schedule:
+    # 3 AM ET Monday–Friday only (8 AM UTC — ET is UTC-5 in winter, UTC-4 summer)
+    - cron: '0 8 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: 'Lookback days for recorder scraper (default: 7, use 90 for historical pull)'
+        required: false
+        default: '7'
+      county:
+        description: 'Filter to specific county (allegheny / washington / westmoreland / all)'
+        required: false
+        default: 'all'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Required: allows committing output files back to repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r scraper/requirements.txt
+
+      - name: Run county scrapers
+        env:
+          LOOKBACK_DAYS: ${{ github.event.inputs.lookback_days || '7' }}
+          COUNTY_FILTER: ${{ github.event.inputs.county || 'all' }}
+          # Add API keys here if any scrapers need them in future
+          # PROPSTREAM_TOKEN: ${{ secrets.PROPSTREAM_TOKEN }}
+        run: |
+          python scraper/run_all_scrapers.py \
+            --lookback-days "$LOOKBACK_DAYS" \
+            --county "$COUNTY_FILTER" \
+            --output-dir data/ \
+            --dashboard-dir dashboard/ \
+            --json
+
+      - name: Commit data output
+        run: |
+          git config user.name  "WBP Data Bot"
+          git config user.email "operations@we-buy-property.net"
+          git add data/ dashboard/records.json
+          # Only commit if something actually changed
+          git diff --cached --quiet || git commit -m "Data: county scrape $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Fire n8n pipeline
+        env:
+          N8N_WEBHOOK_URL: ${{ secrets.N8N_WEBHOOK_URL }}
+        run: |
+          # POST scraped JSON to n8n → triggers dedup + REI Sift auto-upload
+          # Non-fatal: if n8n is down the data is still committed above
+          if [ -f data/records.json ] && [ -n "$N8N_WEBHOOK_URL" ]; then
+            echo "Firing n8n webhook..."
+            curl -s -X POST "$N8N_WEBHOOK_URL" \
+              -H "Content-Type: application/json" \
+              -d @data/records.json \
+              --max-time 60 \
+              && echo "n8n webhook OK" \
+              || echo "n8n webhook failed (non-fatal — data still committed)"
+          else
+            echo "Skipping n8n: no records.json or N8N_WEBHOOK_URL not set"
+          fi
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: main   # Pull fresh after scrape job committed
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
