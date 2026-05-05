@@ -31,10 +31,30 @@ SCRAPERS = [
         "status":   "active",
         "priority": 1,
     },
+    {
+        "name":     "Allegheny Sheriff Sales",
+        "module":   "allegheny_sheriff_sales",
+        "county":   "allegheny",
+        "status":   "active",
+        "priority": 2,
+    },
+    {
+        "name":     "Allegheny Foreclosure Filings",
+        "module":   "allegheny_foreclosures",
+        "county":   "allegheny",
+        "status":   "active",
+        "priority": 3,
+    },
+    {
+        "name":     "Allegheny Tax Liens",
+        "module":   "allegheny_tax_liens",
+        "county":   "allegheny",
+        "status":   "active",
+        "priority": 4,
+    },
     # Future scrapers — plug in when ready:
-    # {"name": "Washington Tax Delinquent",    "module": "washington_tax_delinquent",    "county": "washington",    "status": "deferred", "priority": 2},
-    # {"name": "Westmoreland Tax Delinquent",  "module": "westmoreland_tax_delinquent",  "county": "westmoreland",  "status": "deferred", "priority": 3},
-    # {"name": "Allegheny Lis Pendens",        "module": "allegheny_lis_pendens",        "county": "allegheny",     "status": "deferred", "priority": 4},
+    # {"name": "Washington Tax Delinquent",    "module": "washington_tax_delinquent",    "county": "washington",    "status": "deferred", "priority": 5},
+    # {"name": "Westmoreland Tax Delinquent",  "module": "westmoreland_tax_delinquent",  "county": "westmoreland",  "status": "deferred", "priority": 6},
 ]
 
 
