@@ -59,9 +59,30 @@ SCRAPERS = [
         "status":   "active",
         "priority": 5,
     },
+    {
+        "name":     "Allegheny Estate Sales",
+        "module":   "allegheny_estate_sales",
+        "county":   "allegheny",
+        "status":   "active",
+        "priority": 6,
+    },
+    {
+        "name":     "Allegheny Pre-Probate",
+        "module":   "allegheny_probate",
+        "county":   "allegheny",
+        "status":   "active",
+        "priority": 7,
+    },
+    {
+        "name":     "Allegheny Jail Roster",
+        "module":   "allegheny_jail_roster",
+        "county":   "allegheny",
+        "status":   "active",
+        "priority": 8,
+    },
     # Future scrapers — plug in when ready:
-    # {"name": "Washington Tax Delinquent",    "module": "washington_tax_delinquent",    "county": "washington",    "status": "deferred", "priority": 6},
-    # {"name": "Westmoreland Tax Delinquent",  "module": "westmoreland_tax_delinquent",  "county": "westmoreland",  "status": "deferred", "priority": 7},
+    # {"name": "Washington Tax Delinquent",    "module": "washington_tax_delinquent",    "county": "washington",    "status": "deferred", "priority": 9},
+    # {"name": "Westmoreland Tax Delinquent",  "module": "westmoreland_tax_delinquent",  "county": "westmoreland",  "status": "deferred", "priority": 10},
 ]
 
 
@@ -180,4 +201,12 @@ def main():
         print(f"ERRORS ({len(errors)}):")
         for r in errors:
             print(f"  - {r['name']}: {r.get('error', 'unknown')}")
-        sys.exit(1)  #
+        sys.exit(1)  # Fail the GitHub Actions step so we get notified
+    if skipped:
+        print(f"Skipped: {[r['name'] for r in skipped]}")
+
+    print("\nDone.")
+
+
+if __name__ == "__main__":
+    main()
