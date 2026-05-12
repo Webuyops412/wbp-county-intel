@@ -256,6 +256,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--output-dir",    default=os.path.join(os.path.dirname(__file__), "..", "output"))
     parser.add_argument("--dashboard-dir", default=os.path.join(os.path.dirname(__file__), "..", "dashboard"))
+    parser.add_argument("--lookback-days", type=int, default=30)  # accepted, not used (snapshot data)
     parser.add_argument("--json",          action="store_true")
     args = parser.parse_args()
 
