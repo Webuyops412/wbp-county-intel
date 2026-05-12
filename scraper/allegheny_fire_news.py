@@ -38,8 +38,6 @@ ASSESSMENTS_ID = "65855e14-549e-4992-b5be-d629afc676fa"
 WPRDC_SQL      = "https://data.wprdc.org/api/3/action/datastore_search_sql"
 
 # ─── RSS FEEDS ───────────────────────────────────────────────────────────────
-# Google News RSS: keyword-targeted, returns 100 items, no bot blocking.
-# TribLive + CityPaper block scrapers (return HTML). PG kept as supplement.
 RSS_FEEDS = [
     {
         "name": "GoogleNews_fire",
@@ -109,6 +107,11 @@ def fetch_rss_stories(lookback_days: int) -> list:
                 "User-Agent": "Mozilla/5.0 (compatible; WBP-DataBot/1.0; +https://we-buy-property.net)"
             })
             r.raise_for_status()
+            # Skip HTML responses (bot blocks)
+            ct = r.headers.get("Content-Type", "")
+            if "html" in ct and "xml" not in ct:
+                print(f"  {feed['name']}: blocked (HTML), skipping")
+                continue
             root = ET.fromstring(r.content)
             items = root.findall(".//item")
             print(f"  {feed['name']}: {len(items)} items")
@@ -416,4 +419,16 @@ def main():
     print(f"\n{'='*60}")
     print(f"COMPLETE: {len(output)} fire leads → {fname}")
     if not output.empty:
-   
+        print(f"  Hot leads (>=80): {len(hot)}")
+        print(f"  Avg score: {output['score'].mean():.1f}")
+    print(f"  Elapsed: {elapsed:.1f}s")
+
+    global _records_written
+    _records_written = len(output)
+    return output
+
+
+_records_written = 0
+
+if __name__ == "__main__":
+    main()
