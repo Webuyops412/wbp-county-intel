@@ -38,12 +38,25 @@ ASSESSMENTS_ID = "65855e14-549e-4992-b5be-d629afc676fa"
 WPRDC_SQL      = "https://data.wprdc.org/api/3/action/datastore_search_sql"
 
 # ─── RSS FEEDS ───────────────────────────────────────────────────────────────
+# Google News RSS: keyword-targeted, returns 100 items, no bot blocking.
+# TribLive + CityPaper block scrapers (return HTML). PG kept as supplement.
 RSS_FEEDS = [
-    {"name": "TribLive",    "url": "https://triblive.com/local/feed/"},
-    {"name": "TribLive_all","url": "https://triblive.com/feed/"},
-    {"name": "PG_local",    "url": "https://www.post-gazette.com/rss/news/local"},
-    {"name": "PG_breaking", "url": "https://www.post-gazette.com/rss/breaking"},
-    {"name": "CityPaper",   "url": "https://www.pghcitypaper.com/pittsburgh/Rss.xml"},
+    {
+        "name": "GoogleNews_fire",
+        "url":  "https://news.google.com/rss/search?q=house+fire+pittsburgh+allegheny&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "GoogleNews_blaze",
+        "url":  "https://news.google.com/rss/search?q=residential+fire+pittsburgh&hl=en-US&gl=US&ceid=US:en",
+    },
+    {
+        "name": "PG_local",
+        "url":  "https://www.post-gazette.com/rss/news/local",
+    },
+    {
+        "name": "PG_breaking",
+        "url":  "https://www.post-gazette.com/rss/breaking",
+    },
 ]
 
 FIRE_KEYWORDS      = ["fire", "blaze", "flames", "burned", "burning", "burnt"]
@@ -403,16 +416,4 @@ def main():
     print(f"\n{'='*60}")
     print(f"COMPLETE: {len(output)} fire leads → {fname}")
     if not output.empty:
-        print(f"  Hot leads (>=80): {len(hot)}")
-        print(f"  Avg score: {output['score'].mean():.1f}")
-    print(f"  Elapsed: {elapsed:.1f}s")
-
-    global _records_written
-    _records_written = len(output)
-    return output
-
-
-_records_written = 0
-
-if __name__ == "__main__":
-    main()
+   
