@@ -39,10 +39,11 @@ WPRDC_SQL      = "https://data.wprdc.org/api/3/action/datastore_search_sql"
 
 # ─── RSS FEEDS ───────────────────────────────────────────────────────────────
 RSS_FEEDS = [
-    {"name": "WTAE",  "url": "https://www.wtae.com/rss/news/local.rss"},
-    {"name": "WPXI",  "url": "https://www.wpxi.com/rss/news/local.rss"},
-    {"name": "KDKA",  "url": "https://www.cbsnews.com/pittsburgh/rss/"},
-    {"name": "PG",    "url": "https://www.post-gazette.com/rss/news/local"},
+    {"name": "TribLive",    "url": "https://triblive.com/local/feed/"},
+    {"name": "TribLive_all","url": "https://triblive.com/feed/"},
+    {"name": "PG_local",    "url": "https://www.post-gazette.com/rss/news/local"},
+    {"name": "PG_breaking", "url": "https://www.post-gazette.com/rss/breaking"},
+    {"name": "CityPaper",   "url": "https://www.pghcitypaper.com/pittsburgh/Rss.xml"},
 ]
 
 FIRE_KEYWORDS      = ["fire", "blaze", "flames", "burned", "burning", "burnt"]
