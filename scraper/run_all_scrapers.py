@@ -105,13 +105,14 @@ def run_scraper_module(scraper, args):
         sys.argv = [module_path]
         sys.argv += ["--output-dir", args.output_dir]
         sys.argv += ["--dashboard-dir", args.dashboard_dir]
+        sys.argv += ["--lookback-days", str(args.lookback_days)]
         if args.json:
             sys.argv.append("--json")
-        # Note: --lookback-days is accepted here but not yet used by individual scrapers
-        # (WPRDC data is always current snapshot — lookback used for future recorder scraper)
 
         start = time.time()
-        spec.loader.exec_module(mod)
+        spec.loader.exec_module(mod)   # loads the module (defines functions/globals)
+        mod.main()                     # explicitly call main() — exec_module alone won't fire
+                                       # if __name__ == "__main__" guards (it never equals __main__)
         elapsed = time.time() - start
         sys.argv = saved_argv
 
@@ -119,9 +120,9 @@ def run_scraper_module(scraper, args):
         return {"status": "success", "records": getattr(mod, "_records_written", 0), "name": scraper["name"], "elapsed": elapsed}
 
     except SystemExit:
-        # argparse calls sys.exit(0) on --help; module ran successfully
+        # argparse calls sys.exit(0) on --help; treat as success
         sys.argv = saved_argv
-        return {"status": "success", "records": 0, "name": scraper["name"]}
+        return {"status": "success", "records": getattr(mod, "_records_written", 0), "name": scraper["name"]}
     except Exception as e:
         sys.argv = saved_argv
         print(f"  [ERROR] {scraper['name']}: {e}")
