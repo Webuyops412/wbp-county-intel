@@ -51,7 +51,7 @@ HEADERS = {
 OBIT_RSS_FEEDS = [
     {"name": "PG_Obits",     "url": "https://www.post-gazette.com/rss/obits"},
     {"name": "TribLive",     "url": "https://triblive.com/feed/"},
-    {"name": "WPXI_Obits",   "url": "https://www.wpxi.com/rss/news/local.rss"},
+    {"name": "TribLive_local","url": "https://triblive.com/local/feed/"},
 ]
 
 # Allegheny County / Pittsburgh area cities for geo-filter
