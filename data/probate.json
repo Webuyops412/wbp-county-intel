@@ -1,0 +1,36 @@
+{
+  "fetched_at": "2026-05-12T03:42:55.909485Z",
+  "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
+  "total": 1,
+  "records": [
+    {
+      "property_address": "",
+      "property_city": "",
+      "property_state": "PA",
+      "property_zip": "",
+      "mailing_address": "",
+      "mailing_city": "",
+      "mailing_state": "",
+      "mailing_zip": "",
+      "county": "Allegheny",
+      "apn": "",
+      "fmv_assessed": 0,
+      "est_arv": 0,
+      "bedrooms": 0,
+      "year_built": "",
+      "sqft": 0,
+      "condition": "",
+      "homestead": "",
+      "data_type": "probate",
+      "deceased_name": "Timothy Edward Campbell",
+      "owner_desc": "",
+      "name_match": "unmatched",
+      "obit_date": "2026-04-26",
+      "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vZUVvX0xQOHVhYnJhTV9WQWVSWHNPN2ZUY2cxZDhQbEtPVnV0U1FOUGd2UFRyeS1hYTlvX0xUbDdSQ0xMTzlpQk1PZHk2ek8tdDVEZk5vUHZPNWotRzAxNGFlTUdTM1hqMVNKd0N5NXFNMWo1aVEtNldJTF9yV3M?oc=5",
+      "source": "GoogleNews_passed",
+      "date_pulled": "2026-05-12",
+      "score": 55,
+      "flags": "Pre-Probate, No Property Match"
+    }
+  ]
+}
