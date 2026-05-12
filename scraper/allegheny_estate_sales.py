@@ -380,9 +380,7 @@ def main():
     print(f"  EstateSales.net: {len(net)} listings")
     records.extend(net)
 
-    com = fetch_estatesale_com()
-    print(f"  EstateSale.com: {len(com)} listings")
-    records.extend(com)
+    # EstateSale.com — URL no longer valid, skipping
 
     # Deduplicate by address
     seen, unique = set(), []
