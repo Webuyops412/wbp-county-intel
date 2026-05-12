@@ -40,8 +40,8 @@ ASSESSMENTS_ID = "65855e14-549e-4992-b5be-d629afc676fa"
 WPRDC_SQL      = "https://data.wprdc.org/api/3/action/datastore_search_sql"
 
 # ─── JAIL ROSTER ─────────────────────────────────────────────────────────────
-JAIL_ROSTER_URL = "https://www2.alleghenycounty.us/jailwho/jailwho.aspx"
-JAIL_SEARCH_URL = "https://www2.alleghenycounty.us/jailwho/jailwho.aspx"
+JAIL_ROSTER_URL = "https://www.alleghenycounty.us/Jail/Inmate-Search"
+JAIL_SEARCH_URL = "https://www.alleghenycounty.us/Jail/Inmate-Search"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
