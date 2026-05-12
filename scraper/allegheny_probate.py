@@ -48,8 +48,8 @@ HEADERS = {
 }
 
 # Obituary RSS feeds
-# Google News RSS: keyword-targeted, returns names in titles, no bot blocking.
-# TribLive blocks scrapers (HTML response). Legacy.com API returns empty.
+# Google News RSS — keyword-targeted, returns names in titles, no bot blocking.
+# TribLive blocks scrapers (HTML). Legacy.com API returns empty.
 OBIT_RSS_FEEDS = [
     {
         "name": "GoogleNews_obits",
@@ -93,17 +93,16 @@ NAME_START_RE = re.compile(
 )
 
 
-# ─── STEP 1: FETCH OBITUARIES ────────────────────────────────────────────────
+# ─── NAME EXTRACTION HELPER ─────────────────────────────────────────────────
 
 def _extract_name_from_obit_title(title: str) -> tuple:
     """
     Extract first/last name from obit title formats:
-      - "John Smith Obituary (2026) - Pittsburgh, PA - Funeral Home - Legacy obituary"
-      - "John M. Smith Obituary"
-      - "Obituary for John Smith at Funeral Home"
-    Returns (first_name, last_name, full_name) or ("","","") if no match.
+      "John Smith Obituary (2026) - Pittsburgh, PA - Funeral Home - Legacy obituary"
+      "Obituary for John Smith at Funeral Home"
+    Returns (first_name, last_name, full_name) or ("","","").
     """
-    # Google News Legacy.com format: "First [MI] Last Obituary (year) - City, State - ..."
+    # Google News Legacy.com format
     m = re.match(
         r"^([A-Z][a-zA-Z'\-]+(?:\s+[A-Z][a-zA-Z'\-\.]+){1,3})\s+Obituary",
         title.strip(), re.IGNORECASE
@@ -121,7 +120,7 @@ def _extract_name_from_obit_title(title: str) -> tuple:
         parts = full.split()
         return parts[0], parts[-1], full
 
-    # Fallback: NAME_START_RE on cleaned title
+    # Fallback: strip trailing "obituary..." and use NAME_START_RE
     clean = re.sub(r"\s+obituary.*$", "", title, flags=re.IGNORECASE).strip()
     m3 = NAME_START_RE.match(clean)
     if m3:
@@ -133,8 +132,70 @@ def _extract_name_from_obit_title(title: str) -> tuple:
     return "", "", ""
 
 
+# ─── STEP 1: FETCH OBITUARIES ────────────────────────────────────────────────
+
+def fetch_legacy_com(source_slug: str, lookback_days: int) -> list:
+    """
+    Fetch Legacy.com obituary listing for a Pittsburgh paper.
+    Uses their public search endpoint — returns JSON of recent obits.
+    """
+    obituaries = []
+    cutoff = date.today() - timedelta(days=lookback_days)
+
+    # Legacy.com affiliate obituary search
+    url = f"https://www.legacy.com/api/obituary-search"
+    params = {
+        "affiliateId": source_slug,
+        "regionId": "pa",
+        "limit": 200,
+        "startRecord": 0,
+    }
+    try:
+        r = requests.get(url, params=params, headers=HEADERS, timeout=20)
+        if r.status_code == 200:
+            data = r.json()
+            for obit in data.get("obituaries", []):
+                pub_date_str = obit.get("PublishDate", "")[:10]
+                try:
+                    pub_date = date.fromisoformat(pub_date_str)
+                    if pub_date < cutoff:
+                        continue
+                except Exception:
+                    pass
+
+                city = (obit.get("City") or "").lower()
+                state = (obit.get("StateCode") or "").upper()
+                if state != "PA":
+                    continue
+                if not any(c in city for c in PITTSBURGH_AREA_LOWER):
+                    # Also accept if it's just "Pittsburgh" area
+                    if city not in PITTSBURGH_AREA_LOWER:
+                        continue
+
+                first = obit.get("FirstName", "").strip()
+                last  = obit.get("LastName", "").strip()
+                full_name = f"{first} {last}".strip()
+                if len(full_name) < 4:
+                    continue
+
+                obituaries.append({
+                    "full_name":  full_name,
+                    "first_name": first,
+                    "last_name":  last,
+                    "city":       city.title(),
+                    "state":      state,
+                    "pub_date":   pub_date_str or date.today().isoformat(),
+                    "source":     source_slug,
+                    "article_url": obit.get("ObituaryURL", ""),
+                })
+    except Exception as e:
+        print(f"  Legacy.com ({source_slug}) error: {e}")
+
+    return obituaries
+
+
 def fetch_obit_rss(lookback_days: int) -> list:
-    """Pull obituary RSS feeds and extract names."""
+    """Pull Google News + PG RSS feeds for obituaries; extract names from titles."""
     obituaries = []
     cutoff = datetime.utcnow() - timedelta(days=lookback_days)
 
@@ -143,10 +204,10 @@ def fetch_obit_rss(lookback_days: int) -> list:
             r = requests.get(feed["url"], headers=HEADERS, timeout=20)
             r.raise_for_status()
 
-            # Detect HTML response (bot block) — skip silently
+            # Skip HTML responses (bot blocks)
             ct = r.headers.get("Content-Type", "")
             if "html" in ct and "xml" not in ct:
-                print(f"  {feed['name']}: blocked (HTML response), skipping")
+                print(f"  {feed['name']}: blocked (HTML), skipping")
                 continue
 
             root = ET.fromstring(r.content)
@@ -161,14 +222,11 @@ def fetch_obit_rss(lookback_days: int) -> list:
 
                 full_text = f"{title} {desc}".lower()
 
-                # For Google News feeds: title already has the obit context + city
-                # For PG obits: all items are obits so no keyword filter needed
                 is_obit = any(kw in full_text for kw in
                               ["obituary", "passed away", "died", "funeral", "survived by", "memorial"])
                 if not is_obit:
                     continue
 
-                # Geo filter — accept Pittsburgh area or PA state ref
                 in_area = (
                     any(city in full_text for city in PITTSBURGH_AREA_LOWER)
                     or "pittsburgh" in full_text
@@ -187,12 +245,10 @@ def fetch_obit_rss(lookback_days: int) -> list:
                 if pub_dt and pub_dt < cutoff:
                     continue
 
-                # Extract name from title using improved parser
                 first, last, full_name = _extract_name_from_obit_title(title)
                 if not full_name or len(full_name.split()) < 2:
                     continue
 
-                # Extract city from Google News title: "... - Pittsburgh, PA - ..."
                 city = ""
                 city_m = re.search(r"-\s*([A-Za-z\s]+),\s*PA\s*-", title)
                 if city_m:
@@ -450,7 +506,7 @@ def main():
 
     obituaries = []
 
-    # Google News RSS + PG obits (Legacy.com API was returning 0; TribLive blocks scrapers)
+    # Google News RSS + PG obits (Legacy.com API returns empty; TribLive blocks scrapers)
     rss_results = fetch_obit_rss(args.lookback_days)
     obituaries.extend(rss_results)
 
@@ -500,4 +556,11 @@ def main():
     print(f"  Elapsed: {elapsed:.1f}s")
 
     global _records_written
-    _records_written = len(o
+    _records_written = len(output)
+    return output
+
+
+_records_written = 0
+
+if __name__ == "__main__":
+    main()
