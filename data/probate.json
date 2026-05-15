@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-14T13:24:26.100811Z",
+  "fetched_at": "2026-05-15T13:22:10.325516Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -28,7 +28,7 @@
       "obit_date": "2026-05-13",
       "article_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZklUbXJub0tlMTV4U2w3YnZ1SzNheXZpRDBHVTgxN21ibEVmLXROSWI3YllCRnc5bTZxTTlqa05oUHAwNnlnbGlkcC0wQTdaYmRRaDVTVDB0OFdYbkFocDlULU9lRFJ6OGFUa0YzVDU4ZG5GNnBzZTZyVTFjdlNQUVN2Tl9iOEpG?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-05-14",
+      "date_pulled": "2026-05-15",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
