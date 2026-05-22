@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-21T17:33:49.218879Z",
+  "fetched_at": "2026-05-22T16:41:11.093810Z",
   "source": "EstateSales.net + EstateSale.com",
   "total": 4,
   "records": [
@@ -26,7 +26,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-05-21",
+      "date_pulled": "2026-05-22",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     },
@@ -34,7 +34,7 @@
       "property_address": "3620 Elson Street",
       "property_city": "",
       "property_state": "PA",
-      "property_zip": "15101",
+      "property_zip": "15136",
       "mailing_address": "",
       "mailing_city": "",
       "mailing_state": "",
@@ -53,7 +53,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-05-21",
+      "date_pulled": "2026-05-22",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     },
@@ -80,7 +80,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-05-21",
+      "date_pulled": "2026-05-22",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     },
@@ -107,7 +107,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-05-21",
+      "date_pulled": "2026-05-22",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     }
