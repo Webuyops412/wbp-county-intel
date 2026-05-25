@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-18T17:35:41.741253Z",
+  "fetched_at": "2026-05-25T16:36:13.761201Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Jean Kruse",
+      "deceased_name": "Dianalynn Marie Farkas",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-05-13",
-      "article_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZklUbXJub0tlMTV4U2w3YnZ1SzNheXZpRDBHVTgxN21ibEVmLXROSWI3YllCRnc5bTZxTTlqa05oUHAwNnlnbGlkcC0wQTdaYmRRaDVTVDB0OFdYbkFocDlULU9lRFJ6OGFUa0YzVDU4ZG5GNnBzZTZyVTFjdlNQUVN2Tl9iOEpG?oc=5",
+      "obit_date": "2026-05-25",
+      "article_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2hJYWtIX0pmMTg1SHlLZmFJS2o4cnZ2aFFIZzhOWEE3eG5kUGlQeVJjQmhBTkZOVk9WaDZkdFNXQlk4S3ZpbzkyTWUyamprc0hDZnpWTGluNWRFWktEQ0dObFpBTWlwdEtVdVpIb1BNMHhKU25VNzY3U2hRX3JrT25aSFVWQQ?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-05-18",
+      "date_pulled": "2026-05-25",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
