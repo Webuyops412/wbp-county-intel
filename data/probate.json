@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-25T16:36:13.761201Z",
+  "fetched_at": "2026-05-28T18:28:33.020267Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Dianalynn Marie Farkas",
+      "deceased_name": "Jean Bauer",
       "owner_desc": "",
       "name_match": "unmatched",
       "obit_date": "2026-05-25",
-      "article_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2hJYWtIX0pmMTg1SHlLZmFJS2o4cnZ2aFFIZzhOWEE3eG5kUGlQeVJjQmhBTkZOVk9WaDZkdFNXQlk4S3ZpbzkyTWUyamprc0hDZnpWTGluNWRFWktEQ0dObFpBTWlwdEtVdVpIb1BNMHhKU25VNzY3U2hRX3JrT25aSFVWQQ?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLWVQaWt3ZG9md080a2dETmhKLWZSZk5Ic0tiRmFMRzdjV3BzeFFyRjNpN2s4VnJ2QTFPam9xaXhzOVptaUgxQjZiSnJTQmx0eDloaVQ0OW1iNVpWVXJlaGdXMmRNTDhWb2h2ckdTNzRHU0R5MHF4TzN4TFZGOFFqckxB?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-05-25",
+      "date_pulled": "2026-05-28",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
