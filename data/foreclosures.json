@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-01T21:23:56.619534Z",
+  "fetched_at": "2026-06-02T19:58:41.236919Z",
   "source": "WPRDC Foreclosure Filings",
   "total": 9,
   "records": [
@@ -29,7 +29,7 @@
       "amount_owed": 100646.93,
       "municipality": "Robinson Township",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-06-01",
+      "date_pulled": "2026-06-02",
       "score": 90,
       "flags": "Foreclosure Filing, High Debt ($100,647), Sweet Spot ARV ($162,371), Recent Filing (<30d)"
     },
@@ -59,7 +59,7 @@
       "amount_owed": 145316.97,
       "municipality": "Penn Hills Township",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-06-01",
+      "date_pulled": "2026-06-02",
       "score": 90,
       "flags": "Foreclosure Filing, High Debt ($145,317), Sweet Spot ARV ($161,573), Recent Filing (<30d)"
     },
@@ -89,7 +89,7 @@
       "amount_owed": 171642.43,
       "municipality": "McCandless Township",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-06-01",
+      "date_pulled": "2026-06-02",
       "score": 90,
       "flags": "Foreclosure Filing, High Debt ($171,642), Sweet Spot ARV ($179,931), Recent Filing (<30d)"
     },
@@ -119,7 +119,7 @@
       "amount_owed": 137014.58,
       "municipality": "Scott Township",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-06-01",
+      "date_pulled": "2026-06-02",
       "score": 85,
       "flags": "Foreclosure Filing, High Debt ($137,015), Recent Filing (<30d)"
     },
@@ -149,7 +149,7 @@
       "amount_owed": 113643.92,
       "municipality": "Reserve Township",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-06-01",
+      "date_pulled": "2026-06-02",
       "score": 85,
       "flags": "Foreclosure Filing, High Debt ($113,644), Recent Filing (<30d)"
     },
@@ -179,7 +179,7 @@
       "amount_owed": 0.0,
       "municipality": "Bethel Park Boro",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-06-01",
+      "date_pulled": "2026-06-02",
       "score": 80,
       "flags": "Foreclosure Filing, Sweet Spot ARV ($238,882), Recent Filing (<30d)"
     },
@@ -209,7 +209,7 @@
       "amount_owed": 0.0,
       "municipality": "Pittsburgh",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-06-01",
+      "date_pulled": "2026-06-02",
       "score": 80,
       "flags": "Foreclosure Filing, Sweet Spot ARV ($202,394), Recent Filing (<30d)"
     },
@@ -239,7 +239,7 @@
       "amount_owed": 67143.15,
       "municipality": "Pleasant Hills Boro",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-06-01",
+      "date_pulled": "2026-06-02",
       "score": 80,
       "flags": "Foreclosure Filing, Debt >$50,000, Recent Filing (<30d)"
     },
@@ -269,7 +269,7 @@
       "amount_owed": 0.0,
       "municipality": "Baldwin Boro",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-06-01",
+      "date_pulled": "2026-06-02",
       "score": 80,
       "flags": "Foreclosure Filing, Sweet Spot ARV ($199,315), Recent Filing (<30d)"
     }
