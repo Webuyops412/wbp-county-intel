@@ -1,8 +1,35 @@
 {
-  "fetched_at": "2026-06-08T12:29:34.469813Z",
+  "fetched_at": "2026-06-09T10:55:05.262244Z",
   "source": "EstateSales.net + EstateSale.com",
-  "total": 1,
+  "total": 2,
   "records": [
+    {
+      "property_address": "3200 Croydon Drive",
+      "property_city": "",
+      "property_state": "PA",
+      "property_zip": "15136",
+      "mailing_address": "",
+      "mailing_city": "",
+      "mailing_state": "",
+      "mailing_zip": "",
+      "county": "Allegheny",
+      "apn": "",
+      "fmv_assessed": 0,
+      "est_arv": 0,
+      "bedrooms": 0,
+      "year_built": "",
+      "sqft": 0,
+      "condition": "",
+      "homestead": "",
+      "data_type": "estate_sale",
+      "sale_date_raw": "",
+      "news_source": "EstateSales.net",
+      "article_url": "https://www.estatesales.net/PA/Pittsburgh",
+      "source": "EstateSales.net",
+      "date_pulled": "2026-06-09",
+      "score": 65,
+      "flags": "Estate Sale, Address Unverified"
+    },
     {
       "property_address": "3334 Lake Ridge Dr",
       "property_city": "",
@@ -26,7 +53,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-06-08",
+      "date_pulled": "2026-06-09",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     }
