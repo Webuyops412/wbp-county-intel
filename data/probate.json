@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-28T18:28:33.020267Z",
+  "fetched_at": "2026-06-12T11:55:51.916020Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Jean Bauer",
+      "deceased_name": "Robert Logan",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-05-25",
-      "article_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLWVQaWt3ZG9md080a2dETmhKLWZSZk5Ic0tiRmFMRzdjV3BzeFFyRjNpN2s4VnJ2QTFPam9xaXhzOVptaUgxQjZiSnJTQmx0eDloaVQ0OW1iNVpWVXJlaGdXMmRNTDhWb2h2ckdTNzRHU0R5MHF4TzN4TFZGOFFqckxB?oc=5",
+      "obit_date": "2026-06-12",
+      "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzlkQ3VXYTJYR2hWcmd2SGNRaE9mVlhabFZOUjhPcmtSb0RDNWdUZDVYNVVLOWpBVnN6Zl9sSDBmOXRlU2F2SXBjQUxRWGg4UTRJNTBtYzlBSkF2dThrSHpqMXNHUXlEZnpzNHJPc3NnSTV2STlTcFVZZEl4YjhjaG1Va3J1WmI4VVQ3cEJqMUN3SWhPMVE?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-05-28",
+      "date_pulled": "2026-06-12",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
