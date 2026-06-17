@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-12T11:55:51.916020Z",
+  "fetched_at": "2026-06-17T12:25:59.042199Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Robert Logan",
+      "deceased_name": "Frank Gold",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-06-12",
-      "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzlkQ3VXYTJYR2hWcmd2SGNRaE9mVlhabFZOUjhPcmtSb0RDNWdUZDVYNVVLOWpBVnN6Zl9sSDBmOXRlU2F2SXBjQUxRWGg4UTRJNTBtYzlBSkF2dThrSHpqMXNHUXlEZnpzNHJPc3NnSTV2STlTcFVZZEl4YjhjaG1Va3J1WmI4VVQ3cEJqMUN3SWhPMVE?oc=5",
-      "source": "GoogleNews_passed",
-      "date_pulled": "2026-06-12",
+      "obit_date": "2026-06-11",
+      "article_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMG9TNy1ZNjZkR29pc3JhNGFvd2N4MWpNekpjUnZLUmwxck02bmk0QVBpemZGZHJsQnZsNXpFRGxJR1JVYzRTTVJ6ck1aMEp2SlJYc3NRbFhpTmFiM1VmUmVuenBMTjJ6SUpQdDNmYVRQRmxyUFpMYzdsODR5Vm9ybUJB?oc=5",
+      "source": "GoogleNews_obits",
+      "date_pulled": "2026-06-17",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
