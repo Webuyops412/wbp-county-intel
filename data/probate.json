@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-17T12:25:59.042199Z",
+  "fetched_at": "2026-06-24T10:42:09.889698Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Frank Gold",
+      "deceased_name": "Linda L. Vance",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-06-11",
-      "article_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMG9TNy1ZNjZkR29pc3JhNGFvd2N4MWpNekpjUnZLUmwxck02bmk0QVBpemZGZHJsQnZsNXpFRGxJR1JVYzRTTVJ6ck1aMEp2SlJYc3NRbFhpTmFiM1VmUmVuenBMTjJ6SUpQdDNmYVRQRmxyUFpMYzdsODR5Vm9ybUJB?oc=5",
-      "source": "GoogleNews_obits",
-      "date_pulled": "2026-06-17",
+      "obit_date": "2026-06-21",
+      "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldkFsYUhtckRtblZqQnNBUE15aVdUYzN6eEFIc0g3OVRnbkRGc0QweGduRHRIWG9ZaFdvbS1ZdEhnV3preVNwVmpxZ1NOTWtBRDZOZk9QVlZTVFlCWXJQVzN6Q3J1ZjVENktfc0JWbDV6SUg5Y3BPZEs1TktiSkU?oc=5",
+      "source": "GoogleNews_passed",
+      "date_pulled": "2026-06-24",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
