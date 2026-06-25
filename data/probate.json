@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-24T10:42:09.889698Z",
+  "fetched_at": "2026-06-25T10:35:23.969138Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Linda L. Vance",
+      "deceased_name": "Gary Lee Herndon",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-06-21",
-      "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldkFsYUhtckRtblZqQnNBUE15aVdUYzN6eEFIc0g3OVRnbkRGc0QweGduRHRIWG9ZaFdvbS1ZdEhnV3preVNwVmpxZ1NOTWtBRDZOZk9QVlZTVFlCWXJQVzN6Q3J1ZjVENktfc0JWbDV6SUg5Y3BPZEs1TktiSkU?oc=5",
+      "obit_date": "2026-06-18",
+      "article_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1RNQ2NuVmtveTFzTlNTQldINkJCWGlUVWdybDJTQ3p1QmV0ck1HVTFqR1dwSE03cmZqUFZEeEVNQ1VxX2hkZFJqdldQdnhMcnpKY1FQSTRJTEp6WUJtZjd0TjA4SlpydFBXb1pJblJRNVJ1aEhNTFRfT0QtX3RIaA?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-06-24",
+      "date_pulled": "2026-06-25",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
