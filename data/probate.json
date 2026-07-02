@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-26T10:46:27.986532Z",
+  "fetched_at": "2026-07-02T10:30:43.938939Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
     {
       "property_address": "",
-      "property_city": "Pittsburgh",
+      "property_city": "",
       "property_state": "PA",
       "property_zip": "",
       "mailing_address": "",
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Linda L. Vance",
+      "deceased_name": "Janet Ruth Miller",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-06-21",
-      "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ldkFsYUhtckRtblZqQnNBUE15aVdUYzN6eEFIc0g3OVRnbkRGc0QweGduRHRIWG9ZaFdvbS1ZdEhnV3preVNwVmpxZ1NOTWtBRDZOZk9QVlZTVFlCWXJQVzN6Q3J1ZjVENktfc0JWbDV6SUg5Y3BPZEs1TktiSkU?oc=5",
+      "obit_date": "2026-06-28",
+      "article_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pVEJ5TWxCTF85NVZ2RGYwZXZ5UnRmaUM5bF9Od2R0SGdjc3Z3VzUxRVBTYUttcmZ3em9wQk5RbUhOM2N6WnRwYnoyMEJ5R1NzQjZjcXR6VS1RS2NCaXZwaE1zejBvdjNwaFZxeXVwLUpycGNGVjQ0?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-06-26",
+      "date_pulled": "2026-07-02",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
