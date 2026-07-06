@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-02T10:30:43.938939Z",
+  "fetched_at": "2026-07-06T12:10:06.069980Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Janet Ruth Miller",
+      "deceased_name": "Frank Vincent Fischetti",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-06-28",
-      "article_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pVEJ5TWxCTF85NVZ2RGYwZXZ5UnRmaUM5bF9Od2R0SGdjc3Z3VzUxRVBTYUttcmZ3em9wQk5RbUhOM2N6WnRwYnoyMEJ5R1NzQjZjcXR6VS1RS2NCaXZwaE1zejBvdjNwaFZxeXVwLUpycGNGVjQ0?oc=5",
+      "obit_date": "2026-07-03",
+      "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kbmhZYXh3ejVzcHVaaDc3bGRobmV5Tnp2VjZmMGtPdDhsU2x6dzV0aGpnLTNLYWFhanl5eHRCTWFLRzkyZzhXdk5WWlJnTlZvT29vdW9aWmpZRHcxa2JCZDhPY2R4cm0xT2tqVF9YTWtSR0U5dlNPc2h5eHRXUzA?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-07-02",
+      "date_pulled": "2026-07-06",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
