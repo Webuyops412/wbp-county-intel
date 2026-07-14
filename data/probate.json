@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T10:46:23.860178Z",
+  "fetched_at": "2026-07-14T09:50:54.406071Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Frank Vincent Fischetti",
+      "deceased_name": "Ronald D. Altman",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-07-03",
-      "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kbmhZYXh3ejVzcHVaaDc3bGRobmV5Tnp2VjZmMGtPdDhsU2x6dzV0aGpnLTNLYWFhanl5eHRCTWFLRzkyZzhXdk5WWlJnTlZvT29vdW9aWmpZRHcxa2JCZDhPY2R4cm0xT2tqVF9YTWtSR0U5dlNPc2h5eHRXUzA?oc=5",
+      "obit_date": "2026-07-11",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjV0ZF9oOHIyUE9EVTF4a3I4dVVKUXBrMl9OVHN1WklzYlJxcjBUZDdpQnV4X0lPaUVwcnhCcTdpbjhHWk5hU3YyZ3o0U09EV0FMOWRKTWowU2xPVm5XQmFhVS1XQ2UwczNraUJCcEtVbTd3UHdFVnE3M3JGMk5Xa2N0M05yWHBRbXZCVURqT3psbHZaYVJJcFhSSk5zYzRLUjNTQlJxMTdRcXZ5SmFXWllKV1V6MFBU?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-07-10",
+      "date_pulled": "2026-07-14",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
