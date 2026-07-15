@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T09:50:54.406071Z",
+  "fetched_at": "2026-07-15T09:51:22.166346Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Ronald D. Altman",
+      "deceased_name": "Linda Ann Wills",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-07-11",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjV0ZF9oOHIyUE9EVTF4a3I4dVVKUXBrMl9OVHN1WklzYlJxcjBUZDdpQnV4X0lPaUVwcnhCcTdpbjhHWk5hU3YyZ3o0U09EV0FMOWRKTWowU2xPVm5XQmFhVS1XQ2UwczNraUJCcEtVbTd3UHdFVnE3M3JGMk5Xa2N0M05yWHBRbXZCVURqT3psbHZaYVJJcFhSSk5zYzRLUjNTQlJxMTdRcXZ5SmFXWllKV1V6MFBU?oc=5",
+      "obit_date": "2026-07-13",
+      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVg2OC0ydVNnX0hhcXBNb2ZuRXpHMVp5R2VTaEF2QzBFb05FRkhzX3VzVjFCc0pPU1VEVlU4cmZEZ3lrUEItSy05NW9ieXFNd1I5NzBXQ0hxYUxnVlpSQmJJaFpvNVF4d3QwUzVvMGx6aTV4NGNORG55VmVQZUdJcmxxSHVZVE1YT0pVMjZjSWpyRVhQX1F5Q3RTbC0zMHBWRzdVVjNLbGMtV1AySW84?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-07-14",
+      "date_pulled": "2026-07-15",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
