@@ -1,8 +1,37 @@
 {
-  "fetched_at": "2026-07-15T09:51:22.166346Z",
+  "fetched_at": "2026-07-16T09:59:42.730022Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
-  "total": 1,
+  "total": 2,
   "records": [
+    {
+      "property_address": "",
+      "property_city": "North Huntingdon",
+      "property_state": "PA",
+      "property_zip": "",
+      "mailing_address": "",
+      "mailing_city": "",
+      "mailing_state": "",
+      "mailing_zip": "",
+      "county": "Allegheny",
+      "apn": "",
+      "fmv_assessed": 0,
+      "est_arv": 0,
+      "bedrooms": 0,
+      "year_built": "",
+      "sqft": 0,
+      "condition": "",
+      "homestead": "",
+      "data_type": "probate",
+      "deceased_name": "Louise Murray",
+      "owner_desc": "",
+      "name_match": "unmatched",
+      "obit_date": "2026-07-16",
+      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRi0zbzc1LXV3dGRwVHdxVEJGRjRwQ01hWWNmUVNxYjRERmhmQTFsZncteEtmQmE3T0JzQkRGeFBrcGkzTm1VZkVrbzBzem5vaklETFM0dzZocTBxUUNHWjJ5T01YQ3cyU1A3NS1zZlRvVU5DNFZnbkg0NkNJRUpEd09fTVV2eDQweFdQLUtLMmR5eFpVZXR4eW1KOHF0bVU4ZGc?oc=5",
+      "source": "GoogleNews_passed",
+      "date_pulled": "2026-07-16",
+      "score": 55,
+      "flags": "Pre-Probate, No Property Match"
+    },
     {
       "property_address": "",
       "property_city": "",
@@ -28,7 +57,7 @@
       "obit_date": "2026-07-13",
       "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVg2OC0ydVNnX0hhcXBNb2ZuRXpHMVp5R2VTaEF2QzBFb05FRkhzX3VzVjFCc0pPU1VEVlU4cmZEZ3lrUEItSy05NW9ieXFNd1I5NzBXQ0hxYUxnVlpSQmJJaFpvNVF4d3QwUzVvMGx6aTV4NGNORG55VmVQZUdJcmxxSHVZVE1YT0pVMjZjSWpyRVhQX1F5Q3RTbC0zMHBWRzdVVjNLbGMtV1AySW84?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-07-15",
+      "date_pulled": "2026-07-16",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
