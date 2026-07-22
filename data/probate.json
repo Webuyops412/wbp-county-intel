@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-21T10:22:11.050712Z",
+  "fetched_at": "2026-07-22T10:21:32.750363Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -25,10 +25,10 @@
       "deceased_name": "Thomas Edward Bahney",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-07-21",
+      "obit_date": "2026-07-19",
       "article_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1AwUEprTWdvOVRWYS1GOXVOaWc3QXRJWlVMVElOc1p2Y3kzZEVWNllxZ2JzYTB6cGxjOWE0NS1nR0ZwbEktb0txWDlualc5ZGk3NTVickV0V3RRcWRrUU9kNGRMd2RFcGNGUi1NV3hoei0xNUc2eFRCOEN5bVNQRjZ3?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-07-21",
+      "date_pulled": "2026-07-22",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
