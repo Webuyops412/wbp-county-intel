@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T10:21:32.750363Z",
+  "fetched_at": "2026-07-23T10:18:19.598659Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Thomas Edward Bahney",
+      "deceased_name": "Lorraine A Campbell",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-07-19",
-      "article_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1AwUEprTWdvOVRWYS1GOXVOaWc3QXRJWlVMVElOc1p2Y3kzZEVWNllxZ2JzYTB6cGxjOWE0NS1nR0ZwbEktb0txWDlualc5ZGk3NTVickV0V3RRcWRrUU9kNGRMd2RFcGNGUi1NV3hoei0xNUc2eFRCOEN5bVNQRjZ3?oc=5",
+      "obit_date": "2026-07-22",
+      "article_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSlY2dFhsOE9oY0tNVlAzbXdqT19ISTcyQ1gySEV1WTg5NWRYeGRvTlBFN1RfUTJNNVZ4cWVOWkUzM2N5TURWNzNNQ0dyWjg5N1hEUjA3d3RROHQ2NXhUdFViaHpIUVN0WF9IN1VWVWxQWlZXRGFVaEE2RzlOTGR0Z1E5WEVGdkE?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-07-22",
+      "date_pulled": "2026-07-23",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
