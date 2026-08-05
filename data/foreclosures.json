@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-04T10:27:59.992204Z",
+  "fetched_at": "2026-08-05T10:30:05.567894Z",
   "source": "WPRDC Foreclosure Filings",
-  "total": 6,
+  "total": 5,
   "records": [
     {
       "property_address": "6815 VERONA ST",
@@ -29,39 +29,9 @@
       "amount_owed": 207486.87,
       "municipality": "Penn Hills Township",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-08-04",
+      "date_pulled": "2026-08-05",
       "score": 90,
       "flags": "Foreclosure Filing, High Debt ($207,487), Sweet Spot ARV ($181,870), Recent Filing (<30d)"
-    },
-    {
-      "property_address": "211 21ST ST",
-      "property_city": "Pittsburgh",
-      "property_state": "PA",
-      "property_zip": "15215",
-      "mailing_address": "211   21ST ST",
-      "mailing_city": "Pittsburgh",
-      "mailing_state": "PA",
-      "mailing_zip": "15215",
-      "county": "Allegheny",
-      "apn": "0169J00081000000",
-      "fmv_assessed": 163000,
-      "est_arv": 185860,
-      "bedrooms": 3,
-      "year_built": "1900",
-      "sqft": 1950,
-      "condition": "AVERAGE",
-      "homestead": "HOM",
-      "data_type": "foreclosure_filing",
-      "plaintiff": "Pennymac Loan Services LLC",
-      "case_id": "MG-26-000684",
-      "docket_type": "",
-      "filing_date": "2026-07-28",
-      "amount_owed": 187632.58,
-      "municipality": "Sharpsburg Boro",
-      "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-08-04",
-      "score": 90,
-      "flags": "Foreclosure Filing, High Debt ($187,633), Sweet Spot ARV ($185,860), Recent Filing (<30d)"
     },
     {
       "property_address": "1032 GREENTREE RD",
@@ -89,7 +59,7 @@
       "amount_owed": 70639.1,
       "municipality": "Greentree Boro",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-08-04",
+      "date_pulled": "2026-08-05",
       "score": 85,
       "flags": "Foreclosure Filing, Debt >$50,000, Sweet Spot ARV ($168,643), Recent Filing (<30d)"
     },
@@ -119,7 +89,7 @@
       "amount_owed": 38044.12,
       "municipality": "Ross Township",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-08-04",
+      "date_pulled": "2026-08-05",
       "score": 75,
       "flags": "Foreclosure Filing, Recent Filing (<30d)"
     },
@@ -149,7 +119,7 @@
       "amount_owed": 0.0,
       "municipality": "O'Hara Township",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-08-04",
+      "date_pulled": "2026-08-05",
       "score": 75,
       "flags": "Foreclosure Filing, Recent Filing (<30d)"
     },
@@ -179,7 +149,7 @@
       "amount_owed": 0.0,
       "municipality": "Lincoln Boro",
       "source": "WPRDC_ForeclosureFilings+Assessments",
-      "date_pulled": "2026-08-04",
+      "date_pulled": "2026-08-05",
       "score": 75,
       "flags": "Foreclosure Filing, Recent Filing (<30d)"
     }
