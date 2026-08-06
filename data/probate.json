@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T11:16:14.434835Z",
+  "fetched_at": "2026-08-06T10:34:31.936591Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Edward Juhascik",
+      "deceased_name": "Donald F. Furtivo",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-07-29",
-      "article_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZalkzU0hHUU8tNWxLX2pfcjhmRWJVVjBMelZwcEtUcmo4bEFPVTdzck5ZUVN3SEdHRWhMY2Z0UTQ0LXAwUnE3S1RCNHpaMUk5a2RfZFhMUVNXT3c?oc=5",
+      "obit_date": "2026-08-04",
+      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSTRCTzlZWlF4eEdIeE12TEdrVmJkYmRha2VwNlA2cFFrc1VSeE5qaTdla1dpQkVHc2VwdWJoUndGVS0yR085Zk1MZVdjc2l6MVdNYlc4OUt1YnVFNXBwV2dDRnVWbzRvcXVUcmJPMjFuM09rTGt3U1d6aGFMNDVQcF9uaGNOMGtYVnI3S2t5czVwMzJmb0VkUkVLZ21Zc1dmSXJPZVQ2dEhKRmk1M2ptYUV0aUZqVUQyN1NVbQ?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-08-03",
+      "date_pulled": "2026-08-06",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
