@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-06T10:31:31.482389Z",
+  "fetched_at": "2026-08-07T08:46:45.718863Z",
   "source": "WPRDC Sheriff Sales",
   "total": 74,
   "records": [
@@ -31,7 +31,7 @@
       "municipality": "50",
       "costs_taxes": 2590.0,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -63,7 +63,7 @@
       "municipality": "176",
       "costs_taxes": 4169.14,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -95,7 +95,7 @@
       "municipality": "67",
       "costs_taxes": 2441.25,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -127,7 +127,7 @@
       "municipality": "86",
       "costs_taxes": 16173.85,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -159,7 +159,7 @@
       "municipality": "86",
       "costs_taxes": 2714.72,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -191,7 +191,7 @@
       "municipality": "134",
       "costs_taxes": 7208.89,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -223,7 +223,7 @@
       "municipality": "4",
       "costs_taxes": 10068.26,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -255,7 +255,7 @@
       "municipality": "122",
       "costs_taxes": 27371.08,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -287,7 +287,7 @@
       "municipality": "177",
       "costs_taxes": 7985.66,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -319,7 +319,7 @@
       "municipality": "117",
       "costs_taxes": 3826.48,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -351,7 +351,7 @@
       "municipality": "76",
       "costs_taxes": 3896.09,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -383,7 +383,7 @@
       "municipality": "125",
       "costs_taxes": 9782.05,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -415,7 +415,7 @@
       "municipality": "19",
       "costs_taxes": 5003.7,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -447,7 +447,7 @@
       "municipality": "128",
       "costs_taxes": 21746.92,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -479,7 +479,7 @@
       "municipality": "86",
       "costs_taxes": 25795.54,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -511,7 +511,7 @@
       "municipality": "86",
       "costs_taxes": 19477.56,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -543,7 +543,7 @@
       "municipality": "36",
       "costs_taxes": 43024.04,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -575,7 +575,7 @@
       "municipality": "76",
       "costs_taxes": 26188.04,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -607,7 +607,7 @@
       "municipality": "129",
       "costs_taxes": 6534.07,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -639,7 +639,7 @@
       "municipality": "128",
       "costs_taxes": 38794.29,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -671,7 +671,7 @@
       "municipality": "92",
       "costs_taxes": 53232.55,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -703,7 +703,7 @@
       "municipality": "121",
       "costs_taxes": 17069.0,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -735,7 +735,7 @@
       "municipality": "161",
       "costs_taxes": 3147.24,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -767,7 +767,7 @@
       "municipality": "48",
       "costs_taxes": 37600.54,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -799,7 +799,7 @@
       "municipality": "143",
       "costs_taxes": 75750.89,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -831,7 +831,7 @@
       "municipality": "143",
       "costs_taxes": 149115.06,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -863,7 +863,7 @@
       "municipality": "122",
       "costs_taxes": 33842.62,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -895,7 +895,7 @@
       "municipality": "123",
       "costs_taxes": 1871.25,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -927,7 +927,7 @@
       "municipality": "182",
       "costs_taxes": 25972.99,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -959,7 +959,7 @@
       "municipality": "122",
       "costs_taxes": 2644.61,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -991,7 +991,7 @@
       "municipality": "76",
       "costs_taxes": 32960.23,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1023,7 +1023,7 @@
       "municipality": "70",
       "costs_taxes": 3100.35,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1055,7 +1055,7 @@
       "municipality": "16",
       "costs_taxes": 12394.84,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1087,7 +1087,7 @@
       "municipality": "128",
       "costs_taxes": 5053.43,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1119,7 +1119,7 @@
       "municipality": "46",
       "costs_taxes": 2454.32,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1151,7 +1151,7 @@
       "municipality": "76",
       "costs_taxes": 59540.43,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1183,7 +1183,7 @@
       "municipality": "64",
       "costs_taxes": 3385.75,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1215,7 +1215,7 @@
       "municipality": "76",
       "costs_taxes": 39162.87,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1247,7 +1247,7 @@
       "municipality": "4",
       "costs_taxes": 8536.01,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1279,7 +1279,7 @@
       "municipality": "123",
       "costs_taxes": 4528.88,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1311,7 +1311,7 @@
       "municipality": "173",
       "costs_taxes": 2836.75,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1343,7 +1343,7 @@
       "municipality": "171",
       "costs_taxes": 27377.72,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1375,7 +1375,7 @@
       "municipality": "182",
       "costs_taxes": 44174.11,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1407,7 +1407,7 @@
       "municipality": "127",
       "costs_taxes": 10673.69,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1439,7 +1439,7 @@
       "municipality": "115",
       "costs_taxes": 4132.47,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1471,7 +1471,7 @@
       "municipality": "171",
       "costs_taxes": 2119.75,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1503,7 +1503,7 @@
       "municipality": "63",
       "costs_taxes": 6518.82,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1535,7 +1535,7 @@
       "municipality": "172",
       "costs_taxes": 12082.99,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1567,7 +1567,7 @@
       "municipality": "128",
       "costs_taxes": 210262.84,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1599,7 +1599,7 @@
       "municipality": "76",
       "costs_taxes": 47455.26,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1631,7 +1631,7 @@
       "municipality": "122",
       "costs_taxes": 45832.46,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1663,7 +1663,7 @@
       "municipality": "80",
       "costs_taxes": 2552.55,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1695,7 +1695,7 @@
       "municipality": "159",
       "costs_taxes": 12641.11,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1727,7 +1727,7 @@
       "municipality": "4",
       "costs_taxes": 53440.82,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1759,7 +1759,7 @@
       "municipality": "99",
       "costs_taxes": 4085.76,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1791,7 +1791,7 @@
       "municipality": "56",
       "costs_taxes": 2584.97,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1823,7 +1823,7 @@
       "municipality": "126",
       "costs_taxes": 12684.68,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1855,7 +1855,7 @@
       "municipality": "80",
       "costs_taxes": 3732.4,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1887,7 +1887,7 @@
       "municipality": "143",
       "costs_taxes": 74895.08,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1919,7 +1919,7 @@
       "municipality": "88",
       "costs_taxes": 7806.73,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1951,7 +1951,7 @@
       "municipality": "91",
       "costs_taxes": 2356.25,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -1983,7 +1983,7 @@
       "municipality": "76",
       "costs_taxes": 24932.17,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -2015,7 +2015,7 @@
       "municipality": "111",
       "costs_taxes": 2420.04,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -2047,7 +2047,7 @@
       "municipality": "161",
       "costs_taxes": 5520.92,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -2079,7 +2079,7 @@
       "municipality": "122",
       "costs_taxes": 2232.81,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -2111,7 +2111,7 @@
       "municipality": "86",
       "costs_taxes": 17334.5,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -2143,7 +2143,7 @@
       "municipality": "7",
       "costs_taxes": 4161.94,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -2175,7 +2175,7 @@
       "municipality": "161",
       "costs_taxes": 4286.01,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -2207,7 +2207,7 @@
       "municipality": "111",
       "costs_taxes": 10256.77,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -2239,7 +2239,7 @@
       "municipality": "18",
       "costs_taxes": 7436.6,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -2271,7 +2271,7 @@
       "municipality": "31",
       "costs_taxes": 1866.25,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -2303,7 +2303,7 @@
       "municipality": "19",
       "costs_taxes": 22397.36,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -2335,7 +2335,7 @@
       "municipality": "7",
       "costs_taxes": 163767.51,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     },
@@ -2367,7 +2367,7 @@
       "municipality": "72",
       "costs_taxes": 2786.62,
       "source": "WPRDC_SheriffSales",
-      "date_pulled": "2026-08-06",
+      "date_pulled": "2026-08-07",
       "score": 80,
       "flags": "Sheriff Sale, Mortgage Foreclosure"
     }
