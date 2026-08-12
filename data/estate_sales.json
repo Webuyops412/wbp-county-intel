@@ -1,35 +1,8 @@
 {
-  "fetched_at": "2026-08-11T08:46:27.192852Z",
+  "fetched_at": "2026-08-12T09:04:02.155359Z",
   "source": "EstateSales.net + EstateSale.com",
-  "total": 2,
+  "total": 1,
   "records": [
-    {
-      "property_address": "339 Belle St",
-      "property_city": "",
-      "property_state": "PA",
-      "property_zip": "15136",
-      "mailing_address": "",
-      "mailing_city": "",
-      "mailing_state": "",
-      "mailing_zip": "",
-      "county": "Allegheny",
-      "apn": "",
-      "fmv_assessed": 0,
-      "est_arv": 0,
-      "bedrooms": 0,
-      "year_built": "",
-      "sqft": 0,
-      "condition": "",
-      "homestead": "",
-      "data_type": "estate_sale",
-      "sale_date_raw": "",
-      "news_source": "EstateSales.net",
-      "article_url": "https://www.estatesales.net/PA/Pittsburgh",
-      "source": "EstateSales.net",
-      "date_pulled": "2026-08-11",
-      "score": 65,
-      "flags": "Estate Sale, Address Unverified"
-    },
     {
       "property_address": "5269 Woodview Avenue",
       "property_city": "",
@@ -53,7 +26,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-08-11",
+      "date_pulled": "2026-08-12",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     }
