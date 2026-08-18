@@ -1,8 +1,37 @@
 {
-  "fetched_at": "2026-08-13T09:03:11.219200Z",
+  "fetched_at": "2026-08-18T08:26:06.609002Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
-  "total": 1,
+  "total": 2,
   "records": [
+    {
+      "property_address": "",
+      "property_city": "Pittsburgh",
+      "property_state": "PA",
+      "property_zip": "",
+      "mailing_address": "",
+      "mailing_city": "",
+      "mailing_state": "",
+      "mailing_zip": "",
+      "county": "Allegheny",
+      "apn": "",
+      "fmv_assessed": 0,
+      "est_arv": 0,
+      "bedrooms": 0,
+      "year_built": "",
+      "sqft": 0,
+      "condition": "",
+      "homestead": "",
+      "data_type": "probate",
+      "deceased_name": "Louis Conti",
+      "owner_desc": "",
+      "name_match": "unmatched",
+      "obit_date": "2026-08-13",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ1M0TFN6aDJMNW93NGJOODJ4dVp6OGduYXlPVVlRckFycDQ4dFZuUGgxV05ZZFdlNC12T01QNVlGY2QyeEgyVHNmb0hzVFV5QlEzN3NzQTdEd1Bkd2dpYjBPbVBQUEN4NHBhekdmQ254bFFoZF8yZ2x1RmN3M19zVVNFTQ?oc=5",
+      "source": "GoogleNews_passed",
+      "date_pulled": "2026-08-18",
+      "score": 55,
+      "flags": "Pre-Probate, No Property Match"
+    },
     {
       "property_address": "",
       "property_city": "Pittsburgh",
@@ -28,7 +57,7 @@
       "obit_date": "2026-08-11",
       "article_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFpVbng3aGZpaS1EM3hyTTRrNXFCNW1tbU9fLXl5MG40MEFFSzBzcGlLaXpMUmhPVmFwVzZJaFIyM3A1Ymx3YkdkbzBfbTEzN1ZNMEYxbVJUeFhfRDkzVmdFUEdiYm1wTVlXMzdqQUh3czdTZkJDSEFLY3h6MGMwN3A4OEh4S1FaRWc?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-08-13",
+      "date_pulled": "2026-08-18",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }

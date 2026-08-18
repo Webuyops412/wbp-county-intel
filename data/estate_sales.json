@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T08:36:24.001045Z",
+  "fetched_at": "2026-08-18T08:26:04.321695Z",
   "source": "EstateSales.net + EstateSale.com",
   "total": 3,
   "records": [
@@ -26,7 +26,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-08-17",
+      "date_pulled": "2026-08-18",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     },
@@ -53,7 +53,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-08-17",
+      "date_pulled": "2026-08-18",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     },
@@ -61,7 +61,7 @@
       "property_address": "207 Pleasant Ave",
       "property_city": "",
       "property_state": "PA",
-      "property_zip": "",
+      "property_zip": "15089",
       "mailing_address": "",
       "mailing_city": "",
       "mailing_state": "",
@@ -80,7 +80,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-08-17",
+      "date_pulled": "2026-08-18",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     }
