@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T08:32:19.474075Z",
+  "fetched_at": "2026-08-26T08:31:53.722113Z",
   "source": "EstateSales.net + EstateSale.com",
   "total": 1,
   "records": [
@@ -26,7 +26,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-08-25",
+      "date_pulled": "2026-08-26",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     }
