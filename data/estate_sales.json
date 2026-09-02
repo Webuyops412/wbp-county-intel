@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-01T12:59:40.711587Z",
+  "fetched_at": "2026-09-02T12:33:54.309928Z",
   "source": "EstateSales.net + EstateSale.com",
   "total": 1,
   "records": [
     {
-      "property_address": "655 Liberty Green Dr",
+      "property_address": "755 Liberty Green Dr",
       "property_city": "",
       "property_state": "PA",
       "property_zip": "15136",
@@ -26,7 +26,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-09-01",
+      "date_pulled": "2026-09-02",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     }
