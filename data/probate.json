@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T12:28:29.203206Z",
+  "fetched_at": "2026-09-14T14:34:06.500339Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Alison Wilson",
+      "deceased_name": "Scott Fairchild",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-09-05",
-      "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNemNMazJTbmp4Wm4yQ0RoUDZqOEN5WnI0a1NGNGRpWlhRVXBmTkZTV3ZDTWNfR24yRVFQbnBQNE9STHp4WVBZdWtLOFBZYlJMcDVhTVo2TnhnbXk4aEhnVHhHTzlhM1VxdUxIZXpJQkFkbjlPMEpqMkJoWUdrX2xCSzRWczBjSnFUUlhJVjNTUlV1UWR2Q1JB?oc=5",
+      "obit_date": "2026-09-13",
+      "article_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFFHWWZkUFBuV1lhOGY2RmxVVk9wYnc1LUhFSkQ2WGZ5TnlzbG5oQUpRY2tPWmREcTZUUkViN240UFhZSTNxY2hxTHEtLUVEaUdnNEwtbVBkdFJPeXRQTHNOMXhzaU0tRXVPSWtFakNQRFNFdVBzWm1jamRMRnhBMS1BWGZPZ1lfWENrMHJ0cmdjVzQy?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-09-11",
+      "date_pulled": "2026-09-14",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
