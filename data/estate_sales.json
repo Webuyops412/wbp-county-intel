@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-23T13:08:02.727424Z",
+  "fetched_at": "2026-09-24T13:00:53.347027Z",
   "source": "EstateSales.net + EstateSale.com",
   "total": 4,
   "records": [
@@ -26,7 +26,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-09-23",
+      "date_pulled": "2026-09-24",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     },
@@ -53,7 +53,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-09-23",
+      "date_pulled": "2026-09-24",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     },
@@ -80,7 +80,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-09-23",
+      "date_pulled": "2026-09-24",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     },
@@ -107,7 +107,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-09-23",
+      "date_pulled": "2026-09-24",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     }
