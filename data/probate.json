@@ -1,8 +1,37 @@
 {
-  "fetched_at": "2026-09-24T13:00:55.512161Z",
+  "fetched_at": "2026-09-25T13:06:35.406240Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
-  "total": 1,
+  "total": 2,
   "records": [
+    {
+      "property_address": "",
+      "property_city": "",
+      "property_state": "PA",
+      "property_zip": "",
+      "mailing_address": "",
+      "mailing_city": "",
+      "mailing_state": "",
+      "mailing_zip": "",
+      "county": "Allegheny",
+      "apn": "",
+      "fmv_assessed": 0,
+      "est_arv": 0,
+      "bedrooms": 0,
+      "year_built": "",
+      "sqft": 0,
+      "condition": "",
+      "homestead": "",
+      "data_type": "probate",
+      "deceased_name": "Michael J. Densmore",
+      "owner_desc": "",
+      "name_match": "unmatched",
+      "obit_date": "2026-09-22",
+      "article_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wc250RGRUamVYaHNpVG1SQWprWnlGbjhMa0t1MURvemlEaWZzSGstMkJ6WUdZY2k2LTM2dDdYSmhCNEZHSXdSamdGeWtZUmVhc2ljSjN6Ukpxb25QSlZ5LWlrTVRJNHhGdU5uRmUyZkR0QVpB?oc=5",
+      "source": "GoogleNews_passed",
+      "date_pulled": "2026-09-25",
+      "score": 55,
+      "flags": "Pre-Probate, No Property Match"
+    },
     {
       "property_address": "",
       "property_city": "",
@@ -28,7 +57,7 @@
       "obit_date": "2026-09-21",
       "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS0FHZGtBQ1lBY04wWWNGbUhpT056YUQtYVdHWHpUUElBd05uWVVrdjNhRjNldHNiNjRCV25DOFk1MG4yb0tUQ29vVkZJcXJFQnVZd1Btb24xY25iVl9FNm1wRVdRSHBINTBHVUZiYXFOZTZ2Vk1jdFczN19aUVh0RElsQnJEaVU3d3VyNHY0TUxFbnRvc2dwYlVNei1keUZDelV3U01RSHJYdGhTY1lyMzQxVUo3Vjd5cDY0MQ?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-09-24",
+      "date_pulled": "2026-09-25",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
