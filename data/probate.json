@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-28T16:14:01.222445Z",
+  "fetched_at": "2026-09-29T14:33:40.853988Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
-  "total": 3,
+  "total": 2,
   "records": [
     {
       "property_address": "",
@@ -28,36 +28,7 @@
       "obit_date": "2026-09-25",
       "article_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QeXFGUXExUUhnUWVTRkVrS0t5TllZeFcweHJLaWdWYUQ4Q1dBMFpSOEtfSi1wS2dDaFRhM1hDMDE4a0VtcXFXWUhGbWhrNVZsR2VqNWlxeHlUTWFXT0lnaUQzRlZpY3RyZVE?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-09-28",
-      "score": 55,
-      "flags": "Pre-Probate, No Property Match"
-    },
-    {
-      "property_address": "",
-      "property_city": "",
-      "property_state": "PA",
-      "property_zip": "",
-      "mailing_address": "",
-      "mailing_city": "",
-      "mailing_state": "",
-      "mailing_zip": "",
-      "county": "Allegheny",
-      "apn": "",
-      "fmv_assessed": 0,
-      "est_arv": 0,
-      "bedrooms": 0,
-      "year_built": "",
-      "sqft": 0,
-      "condition": "",
-      "homestead": "",
-      "data_type": "probate",
-      "deceased_name": "Cassandra Barbara",
-      "owner_desc": "",
-      "name_match": "unmatched",
-      "obit_date": "2026-09-23",
-      "article_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHU1MzBSYnpkM3VYOEdvNmNfQV9jY2pBTTRjNkN6YkVlWElMVjl4cnBTZ3YwMXpzTDIyQi1QUEpRWjV0eVBWX0VtNmFVazJWODNGU1d3V0VoU2FFTVpxQ0cycVZLdnFNMzdQcERpSWJMYVRRaDBCRF82bmVVR1U4SA?oc=5",
-      "source": "GoogleNews_passed",
-      "date_pulled": "2026-09-28",
+      "date_pulled": "2026-09-29",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     },
@@ -86,7 +57,7 @@
       "obit_date": "2026-09-22",
       "article_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wc250RGRUamVYaHNpVG1SQWprWnlGbjhMa0t1MURvemlEaWZzSGstMkJ6WUdZY2k2LTM2dDdYSmhCNEZHSXdSamdGeWtZUmVhc2ljSjN6Ukpxb25QSlZ5LWlrTVRJNHhGdU5uRmUyZkR0QVpB?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-09-28",
+      "date_pulled": "2026-09-29",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
