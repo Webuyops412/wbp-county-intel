@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T14:55:54.976532Z",
+  "fetched_at": "2026-10-02T14:19:54.281247Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 2,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Eric Phelps",
+      "deceased_name": "Eric Brian Phelps",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-10-01",
-      "article_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmROZE5iNU03SERvVmVpMGZoRlVBV05XZ0FVMmREbHZyV3BxTW9LWnFXNm9pemQ0aXdSZGR3X1pRY2EtR3lKbmF2eGxZV0FDZWJGQjAwLTJrMk5xV0lSVzdBNGZ1eFJ2ellPU1hvdFZOekZOMGYwWWdFTThZRU10SXdnanJadEJ1Y1phWlFRSlI4NnpnLTk5bmtTLWtBcHM?oc=5",
+      "obit_date": "2026-09-29",
+      "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aa3ZnbTJhdXJsbHFrMG4wOEk3cjV4dWxFRUdWR0tVcEo0Qm1vTnN6U0c3Nm1DT2s4SzZRa0YzOHFia2RBaTNTNzRaZm01SmRlejZVVlE4TC1WQ0tPMGRrWjZmZnRkMUx0S1VEVlhtWjRrWUZyQU5zaTZXdDNWMkU?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-10-01",
+      "date_pulled": "2026-10-02",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     },
@@ -57,7 +57,7 @@
       "obit_date": "2026-09-25",
       "article_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QeXFGUXExUUhnUWVTRkVrS0t5TllZeFcweHJLaWdWYUQ4Q1dBMFpSOEtfSi1wS2dDaFRhM1hDMDE4a0VtcXFXWUhGbWhrNVZsR2VqNWlxeHlUTWFXT0lnaUQzRlZpY3RyZVE?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-10-01",
+      "date_pulled": "2026-10-02",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
