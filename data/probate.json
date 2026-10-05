@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T14:19:54.281247Z",
+  "fetched_at": "2026-10-05T16:34:55.581665Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 2,
   "records": [
@@ -28,7 +28,7 @@
       "obit_date": "2026-09-29",
       "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aa3ZnbTJhdXJsbHFrMG4wOEk3cjV4dWxFRUdWR0tVcEo0Qm1vTnN6U0c3Nm1DT2s4SzZRa0YzOHFia2RBaTNTNzRaZm01SmRlejZVVlE4TC1WQ0tPMGRrWjZmZnRkMUx0S1VEVlhtWjRrWUZyQU5zaTZXdDNWMkU?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-10-02",
+      "date_pulled": "2026-10-05",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     },
@@ -51,13 +51,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Gary Torre",
+      "deceased_name": "Thomas A. Jahanian",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-09-25",
-      "article_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QeXFGUXExUUhnUWVTRkVrS0t5TllZeFcweHJLaWdWYUQ4Q1dBMFpSOEtfSi1wS2dDaFRhM1hDMDE4a0VtcXFXWUhGbWhrNVZsR2VqNWlxeHlUTWFXT0lnaUQzRlZpY3RyZVE?oc=5",
+      "obit_date": "2026-09-30",
+      "article_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkZ0IyQ3VrMExKOS1xYTBkOGxIYWRwelZVZ21TODNYalQ5QUpkdmdTLXdmSDUwdGJpMVVrUGRFTDhMeTVhZ3hvaVo5NUpBeEd2S0gwQVRSNXNaeXNMdzBoV3JzU0JYWFZPdHY0SlRORUtoLWpINDZGVA?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-10-02",
+      "date_pulled": "2026-10-05",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
