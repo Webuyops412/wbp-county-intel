@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T17:07:54.028949Z",
+  "fetched_at": "2026-10-13T15:24:34.166711Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 3,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Carrie A. Vanscoy",
+      "deceased_name": "Kevin Daniel Noel",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-10-10",
-      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdUZlN1pqNmtzZ3YyUnQ5NWhma2J1VmV3ZUlvSDNHUnludU90Y2NHbWxFYThVOEpRd05yTXpQWnZtX0M0VGJpUUZIN09hWlJkLXJXbHRIeHFHcm5nTzRDbmF2QXowTjl3aXFMbW84NW5rWHRvcDhGUmw2VzJXd2Y2aDlxZTFyblo2Y2JHRF9rVXF3UHRYdlg1WA?oc=5",
+      "obit_date": "2026-10-08",
+      "article_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yMXpoekJOa2FlZ3Nhai10ejNNUjl3a0t2Q1ZjcnRyejc1akdsUkFjMUVJc205OGEzQWprV0RFemo5SmFhcTM2OEZlSVh3blVnaE5keURRTmhwRWkxS2ZQOEJiSlFNU3ZDRE1yaTljblBYSVpkOXhibHlHd2tDUQ?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-10-12",
+      "date_pulled": "2026-10-13",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     },
@@ -57,7 +57,7 @@
       "obit_date": "2026-10-08",
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQmtYNzVGVEg5ZWgwQWFQNExaYl8ybURIVmFYblpiT3c2Y2Q5N3QwREFkaWFwQlptUnAxYzMwNzFDekpaRGZyczVBR3JzNjY1U1BDMGtqVE1feHpyTGZQd0d2eUhCMzB5cUc5bmxjM180R1RHTERPYVpkODdScW85WkNlRQ?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-10-12",
+      "date_pulled": "2026-10-13",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     },
@@ -80,13 +80,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Kevin Daniel Noel",
+      "deceased_name": "Carrie A. Vanscoy",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-10-08",
-      "article_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yMXpoekJOa2FlZ3Nhai10ejNNUjl3a0t2Q1ZjcnRyejc1akdsUkFjMUVJc205OGEzQWprV0RFemo5SmFhcTM2OEZlSVh3blVnaE5keURRTmhwRWkxS2ZQOEJiSlFNU3ZDRE1yaTljblBYSVpkOXhibHlHd2tDUQ?oc=5",
+      "obit_date": "2026-10-10",
+      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdUZlN1pqNmtzZ3YyUnQ5NWhma2J1VmV3ZUlvSDNHUnludU90Y2NHbWxFYThVOEpRd05yTXpQWnZtX0M0VGJpUUZIN09hWlJkLXJXbHRIeHFHcm5nTzRDbmF2QXowTjl3aXFMbW84NW5rWHRvcDhGUmw2VzJXd2Y2aDlxZTFyblo2Y2JHRF9rVXF3UHRYdlg1WA?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-10-12",
+      "date_pulled": "2026-10-13",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
