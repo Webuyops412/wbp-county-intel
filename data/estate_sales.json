@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-13T15:24:32.023682Z",
+  "fetched_at": "2026-10-20T13:18:39.610755Z",
   "source": "EstateSales.net + EstateSale.com",
   "total": 1,
   "records": [
     {
-      "property_address": "3962 COOK RD",
+      "property_address": "3725 Blackburn Road",
       "property_city": "",
       "property_state": "PA",
-      "property_zip": "15136",
+      "property_zip": "15237",
       "mailing_address": "",
       "mailing_city": "",
       "mailing_state": "",
@@ -26,7 +26,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-10-13",
+      "date_pulled": "2026-10-20",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     }
