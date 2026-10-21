@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T13:18:39.610755Z",
+  "fetched_at": "2026-10-21T13:19:33.898298Z",
   "source": "EstateSales.net + EstateSale.com",
   "total": 1,
   "records": [
@@ -7,7 +7,7 @@
       "property_address": "3725 Blackburn Road",
       "property_city": "",
       "property_state": "PA",
-      "property_zip": "15237",
+      "property_zip": "15147",
       "mailing_address": "",
       "mailing_city": "",
       "mailing_state": "",
@@ -26,7 +26,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-10-20",
+      "date_pulled": "2026-10-21",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     }
