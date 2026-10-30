@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T14:45:16.642367Z",
+  "fetched_at": "2026-10-30T14:41:49.797461Z",
   "source": "EstateSales.net + EstateSale.com",
   "total": 1,
   "records": [
@@ -26,7 +26,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-10-29",
+      "date_pulled": "2026-10-30",
       "score": 72,
       "flags": "Estate Sale"
     }

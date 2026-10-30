@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-28T14:40:43.607624Z",
+  "fetched_at": "2026-10-30T14:41:52.045560Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
-  "total": 1,
+  "total": 2,
   "records": [
     {
       "property_address": "",
@@ -28,7 +28,36 @@
       "obit_date": "2026-10-26",
       "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JcXFpQ20zZHNHUDRmYTZITlk1TTM3M2FtbXZmMEdNM2g1MWpXVy1jbHpxdktVT29ZQ2JSNElEQ0gxQTVzblpuX3RyaWh1Q2RxTjZpdm42dTZpOVJyTEVkN1M1NFZvQVF1bHpQWXlCeVNfTy1Tbkp0RkhBb1F4RTg?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-10-28",
+      "date_pulled": "2026-10-30",
+      "score": 55,
+      "flags": "Pre-Probate, No Property Match"
+    },
+    {
+      "property_address": "",
+      "property_city": "Pittsburgh",
+      "property_state": "PA",
+      "property_zip": "",
+      "mailing_address": "",
+      "mailing_city": "",
+      "mailing_state": "",
+      "mailing_zip": "",
+      "county": "Allegheny",
+      "apn": "",
+      "fmv_assessed": 0,
+      "est_arv": 0,
+      "bedrooms": 0,
+      "year_built": "",
+      "sqft": 0,
+      "condition": "",
+      "homestead": "",
+      "data_type": "probate",
+      "deceased_name": "Alice Elizabeth Smith",
+      "owner_desc": "",
+      "name_match": "unmatched",
+      "obit_date": "2026-10-26",
+      "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0b1ZLUHRLQ1hMcHdKRlBqRktjWGwtSU5LOC1ZS3pKYUFsV2JOdTBBRXE0ckhvNHREZ0Z2aG1neEZLLUZjbnZBMlpSVWM0bmVNckNkVTZVQ2xWWlN2UGFqdmI1aWVJOS1MdW1HV1JsTlRJRDNkbjJlY2trOGItdEU?oc=5",
+      "source": "GoogleNews_passed",
+      "date_pulled": "2026-10-30",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
