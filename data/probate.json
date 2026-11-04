@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T17:33:54.252492Z",
+  "fetched_at": "2026-11-04T15:52:01.046202Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Sandra Gelet",
+      "deceased_name": "Everett L. Tademy",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-11-01",
-      "article_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaW1Nc3ByMDh4aUk3bTVVeHRfUEJZVV9qMHNMcjhFU0N4akM2WTVEWWlYdVNucUMyT2NMX2ltS0FjalRmQjNpTE1NbnhwcVZ5S0RqZzZIQWc3WWFzTXJ0MUw1RFZUdFlCU2gwRDhoMWFVckJ0THJWWUlKVDJEeXlQNQ?oc=5",
+      "obit_date": "2026-10-29",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHNQOWFDN0RDc2dFRTRQRjQ3eWFCek1aQ2JLVjJCYTBFWi1qa0REWFpDNHJUcEFpRmViVVhMSEhLZ3JwcXdiSV9VOF9XZjhXTlpSNzFwVFNrU0t6eWJjbmZNdlNmT2FhOEtNaFVJMldFZlljbkpYbE1sM2NUbmVLMG56WQ?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-11-02",
+      "date_pulled": "2026-11-04",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
