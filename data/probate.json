@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-09T17:58:40.215113Z",
+  "fetched_at": "2026-11-17T17:12:41.073149Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
     {
       "property_address": "",
-      "property_city": "Pittsburgh",
+      "property_city": "",
       "property_state": "PA",
       "property_zip": "",
       "mailing_address": "",
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Pei Hua Huang",
+      "deceased_name": "Lynda Mae",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-11-09",
-      "article_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRk5fTGVJTlh1SDFNaEp4djQ0QkdJclR2VUQwUDY0QWlDX0xzOEJvVXVQTEcxRnNsRm92b2pORWhGYTdJX2JqaDJSanVmczMwYmZVMzRBN084WDBpSExJMFdYZkV2NjVxTXdiYjVrTGc0TEZYMWJtMnpydzdOcV9xZV9R?oc=5",
+      "obit_date": "2026-11-15",
+      "article_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSW1xblQ1MHZhdTVXZ0RJRFMzMFhKWm1qeVZrU1BHcG9OQVFVTXhvQ3lDZlY1WkdVZDRjRGdQZ2tJOEVyV0ROTnlEMTBDQmxZN1hLb3ZMdUhHanF3TEVaODFUdm9YWFZiLVJkZ3lxQkhfRlFKbndpT182eER2UFN3VzRMcF85OEdaRklLLVBQU0RJd0VEakl1d1FNdkRKeUFYdjdkcE1jTzhlUmNqTmE0WDhVLVRQMXFLcmxYZkhKRUJHaGVTTkVYenNQOFNlbDBvTVQ2VW0yMFZwVE1rZ2ZhMkktZHFocV9EZHRMTA?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-11-09",
+      "date_pulled": "2026-11-17",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
