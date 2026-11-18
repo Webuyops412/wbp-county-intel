@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-16T17:39:53.557072Z",
+  "fetched_at": "2026-11-18T16:49:26.135590Z",
   "source": "EstateSales.net + EstateSale.com",
   "total": 2,
   "records": [
     {
-      "property_address": "620 East Turkeyfoot Lake Road",
+      "property_address": "6497 Elm Street",
       "property_city": "",
       "property_state": "PA",
       "property_zip": "15218",
@@ -26,15 +26,15 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-11-16",
+      "date_pulled": "2026-11-18",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     },
     {
-      "property_address": "85 Youtz Ave",
+      "property_address": "1531 Dunkeith Dr",
       "property_city": "",
       "property_state": "PA",
-      "property_zip": "15209",
+      "property_zip": "15218",
       "mailing_address": "",
       "mailing_city": "",
       "mailing_state": "",
@@ -53,7 +53,7 @@
       "news_source": "EstateSales.net",
       "article_url": "https://www.estatesales.net/PA/Pittsburgh",
       "source": "EstateSales.net",
-      "date_pulled": "2026-11-16",
+      "date_pulled": "2026-11-18",
       "score": 65,
       "flags": "Estate Sale, Address Unverified"
     }
