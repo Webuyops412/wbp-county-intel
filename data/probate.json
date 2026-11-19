@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T17:12:41.073149Z",
+  "fetched_at": "2026-11-19T16:55:52.210196Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 1,
   "records": [
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Lynda Mae",
+      "deceased_name": "Haylee Madison La",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-11-15",
-      "article_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSW1xblQ1MHZhdTVXZ0RJRFMzMFhKWm1qeVZrU1BHcG9OQVFVTXhvQ3lDZlY1WkdVZDRjRGdQZ2tJOEVyV0ROTnlEMTBDQmxZN1hLb3ZMdUhHanF3TEVaODFUdm9YWFZiLVJkZ3lxQkhfRlFKbndpT182eER2UFN3VzRMcF85OEdaRklLLVBQU0RJd0VEakl1d1FNdkRKeUFYdjdkcE1jTzhlUmNqTmE0WDhVLVRQMXFLcmxYZkhKRUJHaGVTTkVYenNQOFNlbDBvTVQ2VW0yMFZwVE1rZ2ZhMkktZHFocV9EZHRMTA?oc=5",
+      "obit_date": "2026-11-16",
+      "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOUWZ1VGZ5VW1lUUNNTnhscE9Ia2ZtWHNiN3RnazZxVXdqQllyeDRFeVFZZ29ZYnlpYmtLVDhHYktaQktGaUdDXzlNXzZMdnJ6QjJOY1lTR2RWTFpGYy0yYkM2eHg5VUdGdUVZR2x2VE1PLThNZUgyWC1Jb0c?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-11-17",
+      "date_pulled": "2026-11-19",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
