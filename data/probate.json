@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-19T16:55:52.210196Z",
+  "fetched_at": "2026-11-20T16:30:37.258127Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
-  "total": 1,
+  "total": 2,
   "records": [
     {
       "property_address": "",
@@ -28,7 +28,36 @@
       "obit_date": "2026-11-16",
       "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOUWZ1VGZ5VW1lUUNNTnhscE9Ia2ZtWHNiN3RnazZxVXdqQllyeDRFeVFZZ29ZYnlpYmtLVDhHYktaQktGaUdDXzlNXzZMdnJ6QjJOY1lTR2RWTFpGYy0yYkM2eHg5VUdGdUVZR2x2VE1PLThNZUgyWC1Jb0c?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-11-19",
+      "date_pulled": "2026-11-20",
+      "score": 55,
+      "flags": "Pre-Probate, No Property Match"
+    },
+    {
+      "property_address": "",
+      "property_city": "",
+      "property_state": "PA",
+      "property_zip": "",
+      "mailing_address": "",
+      "mailing_city": "",
+      "mailing_state": "",
+      "mailing_zip": "",
+      "county": "Allegheny",
+      "apn": "",
+      "fmv_assessed": 0,
+      "est_arv": 0,
+      "bedrooms": 0,
+      "year_built": "",
+      "sqft": 0,
+      "condition": "",
+      "homestead": "",
+      "data_type": "probate",
+      "deceased_name": "Anthony Manzo",
+      "owner_desc": "",
+      "name_match": "unmatched",
+      "obit_date": "2026-11-19",
+      "article_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95TjVDampNdkJVVmlCbjZNOGljalZiYVgyeU9ZalktNEd4V0dONXZSa1ViWlRBZk5SNEpUcnA4cDBoUnVhQ0ZjSkVkUENOSDlzcEJQY3VnM0ZBa3lCejR0dndUNkFWRnMya080LW54amdEUQ?oc=5",
+      "source": "GoogleNews_passed",
+      "date_pulled": "2026-11-20",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
