@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-20T16:30:37.258127Z",
+  "fetched_at": "2026-11-23T19:38:55.871269Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 2,
   "records": [
     {
       "property_address": "",
-      "property_city": "",
+      "property_city": "Pittsburgh",
       "property_state": "PA",
       "property_zip": "",
       "mailing_address": "",
@@ -22,13 +22,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Haylee Madison La",
+      "deceased_name": "James Roth",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-11-16",
-      "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOUWZ1VGZ5VW1lUUNNTnhscE9Ia2ZtWHNiN3RnazZxVXdqQllyeDRFeVFZZ29ZYnlpYmtLVDhHYktaQktGaUdDXzlNXzZMdnJ6QjJOY1lTR2RWTFpGYy0yYkM2eHg5VUdGdUVZR2x2VE1PLThNZUgyWC1Jb0c?oc=5",
+      "obit_date": "2026-11-18",
+      "article_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZEo3RDl6TFdUSGxOZmUyVjNZMFdwUUxSNEh5d3JhTDlTczg4UUV1c0tQSHZLTlhfQXVyeDIxMk5aMDBsUTVsVlFNeDZtRkwtWElBeGQ2cDVLaHhHQnpMQmlKUk1Ecm5qazVrSkhqRk5sTHVPdDdCRlU2aXZrNTRLMmxB?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-11-20",
+      "date_pulled": "2026-11-23",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     },
@@ -51,13 +51,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Anthony Manzo",
+      "deceased_name": "Clara Agnes",
       "owner_desc": "",
       "name_match": "unmatched",
       "obit_date": "2026-11-19",
-      "article_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95TjVDampNdkJVVmlCbjZNOGljalZiYVgyeU9ZalktNEd4V0dONXZSa1ViWlRBZk5SNEpUcnA4cDBoUnVhQ0ZjSkVkUENOSDlzcEJQY3VnM0ZBa3lCejR0dndUNkFWRnMya080LW54amdEUQ?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDJpTkN6cEllWVRrN0FKV0pUOWFBSHgyWkV4T2JSOElxOGZfZUd2WDlqWjdHTWhiTWxNeV9TNFI2d19WV2ZQb3JJcEtXYkJCbDZTQWo1aE00YjYyTXdDcWlOZW4wWHE0LW1NT0xsV09najJTMjNDSGdKbHE1WEFxRERVZ1RudTNFcGw5RnBMWWR2WmtqcVVrclkzdElPOUN5QUU1ZUhwQ01WVjR1TGFfbkdma0tNeTU3Vkk0X2VuZXg?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-11-20",
+      "date_pulled": "2026-11-23",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
