@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T19:38:55.871269Z",
+  "fetched_at": "2026-11-24T19:11:57.412933Z",
   "source": "Pittsburgh Obituaries (PG/TribLive/RSS)",
   "total": 2,
   "records": [
@@ -28,13 +28,13 @@
       "obit_date": "2026-11-18",
       "article_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZEo3RDl6TFdUSGxOZmUyVjNZMFdwUUxSNEh5d3JhTDlTczg4UUV1c0tQSHZLTlhfQXVyeDIxMk5aMDBsUTVsVlFNeDZtRkwtWElBeGQ2cDVLaHhHQnpMQmlKUk1Ecm5qazVrSkhqRk5sTHVPdDdCRlU2aXZrNTRLMmxB?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-11-23",
+      "date_pulled": "2026-11-24",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     },
     {
       "property_address": "",
-      "property_city": "",
+      "property_city": "Pittsburgh",
       "property_state": "PA",
       "property_zip": "",
       "mailing_address": "",
@@ -51,13 +51,13 @@
       "condition": "",
       "homestead": "",
       "data_type": "probate",
-      "deceased_name": "Clara Agnes",
+      "deceased_name": "Richard Bryga",
       "owner_desc": "",
       "name_match": "unmatched",
-      "obit_date": "2026-11-19",
-      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDJpTkN6cEllWVRrN0FKV0pUOWFBSHgyWkV4T2JSOElxOGZfZUd2WDlqWjdHTWhiTWxNeV9TNFI2d19WV2ZQb3JJcEtXYkJCbDZTQWo1aE00YjYyTXdDcWlOZW4wWHE0LW1NT0xsV09najJTMjNDSGdKbHE1WEFxRERVZ1RudTNFcGw5RnBMWWR2WmtqcVVrclkzdElPOUN5QUU1ZUhwQ01WVjR1TGFfbkdma0tNeTU3Vkk0X2VuZXg?oc=5",
+      "obit_date": "2026-11-21",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcHN3X2JwT0dsV1NhZnlOWE5lWHNJQnZFRTFtdENmNEMwcDlEcWRUazJubVRiRE5fN1NhMXFZWGZWZWdGUmhsQ29sc1gxOWc0WUJ0azJrNFgxRXBNRFhsamJpSXRnaEw4Q1YwRElvWDlMRzBnYnFkMU1hcWxUVXgwanBzc3VFUTBicThTVlVubVpnVzlvYnVqVklOaEZ1bnVlLU1iOElmQkdKUQ?oc=5",
       "source": "GoogleNews_passed",
-      "date_pulled": "2026-11-23",
+      "date_pulled": "2026-11-24",
       "score": 55,
       "flags": "Pre-Probate, No Property Match"
     }
